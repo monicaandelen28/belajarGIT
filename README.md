@@ -560,3 +560,14 @@ To https://github.com/monicaandelen28/belajarGIT
  * [new branch]      Tugas-js -> Tugas-js
  * [new branch]      Tugas-midProject -> Tugas-midProject
  * [new branch]      Tugas-php -> Tugas-php
+
+user@Caca MINGW64 ~/Documents/Pemrograman Web (master)
+$ git clone https://github.com/monicaandelen28/TIK2032-Project
+Cloning into 'TIK2032-Project'...
+remote: Enumerating objects: 10, done.
+remote: Counting objects: 100% (10/10), done.
+remote: Compressing objects: 100% (7/7), done.
+remote: Total 10 (delta 1), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (10/10), 6.37 KiB | 2.12 MiB/s, done.
+Resolving deltas: 100% (1/1), done.
+
